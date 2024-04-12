@@ -12,7 +12,8 @@ func main() {
         {1, 1, 1},
         {0, 0, 0},
     }
-
+    b:=array
+    fmt.Print(b)
 	gameOfLife(array)
 
 }
